@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
 		<>
 			<Layout>
 				<Head>
-					<title>Emily's personal {CMS_NAME}</title>
+					<title>Emily Nadler</title>
 				</Head>
 				<Container>
 					<Intro />
